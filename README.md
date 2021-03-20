@@ -1,0 +1,3 @@
+This repo contains some of the code written by the original authors of the paper [1]. We have left our git history here as a record of our specific changes
+
+[1] Wang-Cheng Kang, Chen Fang, Zhaowen Wang, Julian McAuley. *[Visually-Aware Fashion Recommendation and Design with Generative Image Models.](http://cseweb.ucsd.edu/~jmcauley/pdfs/icdm17.pdf)* In Proceedings of IEEE International Conference on Data Mining (ICDM'17)

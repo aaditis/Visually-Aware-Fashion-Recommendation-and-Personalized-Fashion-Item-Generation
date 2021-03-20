@@ -1,0 +1,19 @@
+OLD DATASET STATISTICS (Amazon Fashion):
+Number of unique reviewers: 64583
+Number of reviewed items: 234892
+Number of super users: 45184
+Number of items reviewed by super users: 166270
+NEW DATASET STATISTICS (Amazon Review Data 2018, Amazon Fashion):
+Total number of user reviews: 883636
+Total number of reviewed items: 186627
+Number of unique reviewers: 749233
+Number of super users (reviewers with five or more reviews on items with at least one image): 2577
+Number of items reviewed by super users: 16791
+Number of super user reviews including images: 0
+Total number of images submitted in super user reviews: 0
+Total number of item images: 33606
+
+Number of users lost: 254
+Number of items lost: 19
+New number of users: 2323
+New number of items: 33587
